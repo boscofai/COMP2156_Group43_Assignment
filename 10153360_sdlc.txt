@@ -1,8 +1,0 @@
-Importance of learning DevOps in the software development cycle
-
-Optimize hybrid and on-prem performance
-Deliver peak performance with unique AppDynamics capabilities:
-Application performance monitoring linked to business metrics — and every network, ISP, API, and service your applications rely on
-Application security linked to business risk
-Monitoring for SAP® Solutions
-Digital experience monitoring
