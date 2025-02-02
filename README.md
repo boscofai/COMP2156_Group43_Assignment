@@ -15,6 +15,12 @@ collaborative Git workflows, branching strategies, and CI/CD integration.
 1. Clone the repository.
 2. Switch to your branch using `git checkout STUDENTID-Name`.
 3. Install any dependencies as listed.
+4. Setting up Continuous Integration (CI) - Create a workflow.
+5. Create file, make commits and push to own branch.
+6. Merge Branch and resolve Conflict.
+7. Update README.md
+
+
 
 ## CI/CD Pipeline
 The project utilizes GitHub Actions for continuous integration. The workflow is defined
