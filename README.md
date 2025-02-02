@@ -6,6 +6,7 @@
 - **Member 3:** Abdulmannan Vahora (101546839) - [GitHub](https://github.com/Mannan0707-maker)
 - **Member 4:** Alan Zhou (101248404) - [GitHub](https://github.com/alzhou45)
 - **Member 4:** Alan Zhou (101248404) - [GitHub](https://github.com/alzhou45)
+- Member 5: XXXX
 
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
