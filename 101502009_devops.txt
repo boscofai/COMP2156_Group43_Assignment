@@ -1,0 +1,48 @@
+COMP 2156- DevOps For System Administration
+
+In this course students will learn the procedures, protocols and best practices that a DevOps engineer
+brings to a workplace environment to increase productivity. Analyze and evaluate various developer
+operation implementations available and implement hands-on work using industry standard toolkit.
+Create solution to complex business problem by adhering to the core responsibilities of DevOps
+Students will learn about data formats and types, including Extensible Markup Language (XML),
+JavaScript Object Notation (JSON), Yaml Ain't Markup Language (YAML), and Yet Another Next
+Generation (YANG), and their value in network automation, along with DevOps tools such as Ansible
+and Git.
+
+Courses Deliverables 
+
+1. Effectively carry out the roles of a System or Network engineer with DevOps processes by
+utilizing the industry-standard tools and techniques and strategies such as CI/CD, as well as
+software development lifecycle and containerization for deployment.
+2. Demonstrate the strategies and skills of using suitable DevOps tools, Cloud database
+technologies and techniques for software/network applications
+3. Enhance the software development life cycle cycle through cross collaboration among the IT
+staff by understanding and effectively automating the application configurations and operations.
+4. Utilize Version Control System workflows to develop optimized, low-risk software releases and
+continuous code integration.
+5. Make a well-informed analysis and architectural decisions between monolithic or microservice
+architecture for software products.
+6. Monitor code quality and CI/CD pipelines to improve and optimize the DevOps processes
+continuously
+7. Create effective strategies and utilize service platforms such as Infrastructure as Code and the
+benefits of cloud computing to deploy a software product.
+8. Identify the market and opportunities for a DevOps Engineer to Effectively develop & integrate
+security practices into the software development cycle and CI/CD pipelines.
+
+
+Why this course matters
+This course is designed to better prepare professionals entering the IT field.
+Specifically, a field where servers, web apps and infrastructure will be core to
+business needs. COMP 2156 will provide a hands-on experience through the
+implementation of tried, tested and true DevOps technologies.
+We will also examine ways in which companies have either lost or saved fortunes
+with DevOps strategies. Learning about Amazon Web Services, Ansible, Docker and
+Travis CI, you will become familiar with end-to-end deployment processes. You will
+also have your very own build pipeline which will allow you to push changes to a
+web app in the wild at the stroke of a key.
+Using DevOps practices effectively will allow for a process predicated on ease to
+ship code to Production servers, apply hot-fixes, catch errors before they produce
+some sort of unintended behavior and keep transparency & communication
+heightened across all teams. Looking at the software development lifecycle
+through the lens of a DevOps Engineer will produce a more informed and qualified
+developer.
