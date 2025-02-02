@@ -1,4 +1,4 @@
-DevOps 
+DevOps-Importance of learning DevOps in the software development cycle.
 
 1. Faster Process due to Automation – With the help of DevOps, we can make the SDLC process in a genuine agile manner for the timely releases of the product. In earlier days, Development Team and Operations teams worked in different silos. So, at that time, it was a challenging task to identify whether the application was ready for operation or not. But now, in DevOps, the development and operation teams work together. So, the application is prepared in a much faster time. It happens in DevOps due to the various phases involved in the process and multiple tools. With the help of these tools, we can implement the CI/CD process so that whenever a developer pushes any code changes in the master branch, it automatically starts the process of building the application for error-checking purposes. If required, we can implement the Continuous Deployment process in this. It is much more critical for companies to succeed in the current substantial competitive market. AT Amazon, engineers are deploying code every 11.7 seconds on average with the help of the DevOps Process.
 
