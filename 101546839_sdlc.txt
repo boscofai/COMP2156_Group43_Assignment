@@ -1,0 +1,1 @@
+DevOps plays a crucial role in the Software Development Life Cycle by enabling continuous integration, faster deployments, and efficient collaboration between teams.
