@@ -1,1 +1,2 @@
 DevOps is important to help organize software faster.
+DevOps helps integrate development and operations efficiently.
