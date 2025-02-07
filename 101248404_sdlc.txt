@@ -2,3 +2,4 @@ DevOps is important to help organize software faster.
 DevOps helps integrate development and operations efficiently.
 DevOps complements Agile by enabling continuous integration and deployment.
 SDLC includes planning, development, testing, and deployment.
+Learning DevOps is crucial for modern software engineering.
