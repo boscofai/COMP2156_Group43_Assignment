@@ -1,3 +1,7 @@
 Student Name: Chi Fai Chan
 Student ID: 101503360
 Program Code: T141
+Institution: George Brown College
+Campus: Casa Loma
+Address: 160 Kendal Ave
+Course Code: COMP2156 
