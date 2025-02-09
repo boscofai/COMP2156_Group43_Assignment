@@ -1,7 +1,24 @@
+The software development (Dev) and IT operations (Ops) are combined into a coherent framework by 
+the constantly evolving principles and set of practices known as DevOps. Its primary objective is to 
+enhance and expedite the software development process by promoting cooperation between 
+the operations and development teams. 
+
+The development and operations lifecycle, from planning, building, and deployment to testing, 
+monitoring, and iterating, is encompassed by DevOps. Communication, transparency, adaptability,
+and automation are essential for DevOps. Fundamentally, DevOps is a cultural revolution that 
+encourages cross-functional teams to work together, communicate, and integrate.
+
+It promotes ideas that support quick and dependable software delivery, including automation, 
+infrastructure as code (IaC), continuous integration, and continuous delivery/deployment (CI/CD).  
+DevOps creates a unified approach by removing silos.  It unifies the historically separate roles of 
+development and operations by coordinating goals, processes, and toolchains, allowing for a more 
+streamlined, effective workflow.
+
+
 Importance of learning DevOps in the software development cycle
 
 Optimize hybrid and on-prem performance
-Deliver peak performance with unique AppDynamics capabilities:
+Deliver peak performance with unique AppDynamics capabilities
 Application performance monitoring linked to business metrics — and every network, ISP, API, and service your applications rely on
 Application security linked to business risk
 Monitoring for SAP® Solutions
