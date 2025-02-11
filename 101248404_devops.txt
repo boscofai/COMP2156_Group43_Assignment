@@ -1,0 +1,4 @@
+COMP3104 DevOps is a course offered at George Brown College.
+COMP3104 covers CI/CD, version control, and automation.
+Continuous Integration ensures code quality before deployment.
+DevOps culture improves collaboration between teams.
